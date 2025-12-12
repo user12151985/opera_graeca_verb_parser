@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+.DS_Store
+cams_ancient_greek_morphosyntactic_analyzer_v1.0_local_build.ipynb
+cams_ancient_greek_morphosyntactic_analyzer_v1.2_balanced_Xy.ipynb
+opera_graeca_adnotata/
+data/*.tsv
+data/*.npy
+data/*.npy
